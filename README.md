@@ -9,6 +9,8 @@ Instead of jumping directly into Power BI, I followed a proper data workflow fro
 # Preview:
 ![Executive Overview](amazon_sales/dasboard_output/executive_overview.png)
 
+![Executive Overview](amazon_sales/dasboard_output/product_performance.png)
+
 ## Project Workflow
 
 Here’s how the project was executed:
