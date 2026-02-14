@@ -1,0 +1,10 @@
+-- 1. Which country generates the highest revenue?
+-- 2. What's the monthly sales trend?
+-- 3. Which product category has the highest average order value?
+-- 4. Top 5 best-selling products by quantity
+-- 5. Payment method preference by country
+-- 6. What's the return/cancellation rate?
+-- 7. Which shipping method is most profitable?
+-- 8. Customer retention: How many repeat customers?
+-- 9. Seasonal trends: Which quarter performs best?
+-- 10. Discount impact: Revenue with vs without discounts
